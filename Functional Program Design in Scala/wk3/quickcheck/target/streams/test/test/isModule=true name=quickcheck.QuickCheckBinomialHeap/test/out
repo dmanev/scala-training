@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.del1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m! Heap.sorted1: Falsified after 3 passed tests.[0m
+[0m[[0minfo[0m] [0m> ARG_0: List(Node(0,0,List()), Node(-2147483648,2,List(Node(-2147483648,1,List(Node(1867657862,0,List()))), Node(-1829035637,0,List()))))[0m
+[0m[[0minfo[0m] [0m+ Heap.meld1: OK, passed 100 tests.[0m

@@ -1,0 +1,9 @@
+# Specific
+*.zip
+*.pdf
+
+# Scala
+*.class
+*.log
+
+

@@ -1,0 +1,346 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package$.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1$$anonfun$apply$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$3.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$7.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8$$anonfun$apply$9.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$2$$anonfun$apply$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$3.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$3.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$.class
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package.class
+binary dependencies:
+6 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> /home/mitko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> /home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> common.package
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> common.package$
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1$$anonfun$apply$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combine$1$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combine$1$1$$anonfun$apply$3
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combine$1$1$$anonfun$apply$4
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$7
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8$$anonfun$apply$9
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$occurrencesToWord$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$occurrencesToWord$2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$occurrencesToWord$2$$anonfun$apply$2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$3
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$3
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$2
+used names:
+158 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> ::
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> <init>
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> <repeated>
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> Any
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> AnyRef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> File
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> FileInputStream
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> InputStream
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> List
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> None
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> Nothing
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> Option
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> Predef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> String
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> _root_
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> child
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> children
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> classesDir
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> common
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> exists
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> file
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> foldLeft
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> getClass
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> getParentFile
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> getResource
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> io
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> java
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> package
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> projectDir
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> resourceFile
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> resourcePath
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> scala
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> subFile
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> toURI
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> !=
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> $conforms
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> +
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> -
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> ->
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> ::
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> <init>
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> ==
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> >
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Anagrams
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> AnyRef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Char
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> IndexedSeq
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Int
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> List
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Map
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Nil
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurrences
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Ordering
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Predef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Sentence
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> String
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Tuple2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> Word
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> _1
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> _2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> apply
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> assert
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> augmentString
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> by
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> canBuildFrom
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> ch
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> charWrapper
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> cnt
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> combResult
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> combinations
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> combine
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionaryByOccurrences
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> drop
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> filter
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatMap
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> foldLeft
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forall
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> freq
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> groupBy
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> i
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> immutable
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> intWrapper
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> isEmpty
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> isLetter
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> length
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> loadDictionary
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> map
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> math
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> mkString
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> ne
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> oc
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> occAnagrams
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrences
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrencesToWord
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> other
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> package
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> rest
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> s
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> scala
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentence
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentenceOccurrences
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> sortBy
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> split
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> str
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> subFreq
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> subset
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> subtract
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> take
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> to
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> toList
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLowerCase
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> toMap
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> unary_!
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> unchecked
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> w
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> withDefaultValue
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> withFilter
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> word
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordAnagrams
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordOccurrences
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> x
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> y
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> +
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> <init>
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> AnyRef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> Codec
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> Exception
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> List
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> Option
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> Predef
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> Source
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> apply
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> close
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> common
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> dictionaryPath
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> e
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> error
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> fallbackSystemCodec
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> forcomp
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> fromInputStream
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> getClass
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> getLines
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> getOrElse
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> getResourceAsStream
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> immutable
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> io
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> mkString
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> orElse
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> package
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> println
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> resourceAsStreamFromSrc
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> s
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> scala
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> sys
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> toList
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> wordstream
+product stamps:
+32 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package$.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/common/package.class -> lastModified(1470235093000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1$$anonfun$apply$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$3.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1$$anonfun$apply$4.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combine$1$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$2.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$7.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3$$anonfun$apply$8.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$occAnagrams$1$3.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$1.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$2$$anonfun$apply$2.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$occurrencesToWord$2.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$1.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$2.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$subtract$3.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$3.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class -> lastModified(1470235094000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package$.class -> lastModified(1470235095000)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/target/scala-2.11/classes/forcomp/package.class -> lastModified(1470235095000)
+source stamps:
+3 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> hash(13c12dccaf5e1a4e5f071bea950fc0506a23e3b6)
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+/home/mitko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1469158924000)
+class names:
+2 items
+/home/mitko/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.sys.package$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVZQ1uiSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB7ixmwAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJvH++x0AAZub3RpZnlzcQB+AAyjgGyedAARb2NjdXJyZW5jZXNUb1dvcmRzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAzhdfwjdAAJbm90aWZ5QWxsc3EAfgAML25Iw3QADGlzSW5zdGFuY2VPZnNxAH4ADJ9dmDR0AAxjb21iaW5hdGlvbnNzcQB+AAyN9B83dAALT2NjdXJyZW5jZXNzcQB+AAyq3clCdAACPT1zcQB+AAx3rWbsdAAFY2xvbmVzcQB+AAwtxs3RdAAXZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXNzcQB+AAxtfol0dAAIdG9TdHJpbmdzcQB+AAy5p3ApdAACIT1zcQB+AAzsOgaldAATc2VudGVuY2VPY2N1cnJlbmNlc3NxAH4ADCVxmI50AAhnZXRDbGFzc3NxAH4ADKooxxF0AAJuZXNxAH4ADL9voo10AAhBbmFncmFtc3NxAH4ADDsqQNB0AAJlcXNxAH4ADAJgJ9Z0AAhTZW50ZW5jZXNxAH4ADPu4wM90AARXb3Jkc3EAfgAMZKj+jnQAAiMjc3EAfgAMcJSic3QACGZpbmFsaXplc3EAfgAM722ZpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGZvcmNvbXAuQW5hZ3JhbXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBweHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBvAHBzcQB+AHRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB4c3EAfgBvAHBzcQB+AHR1cQB+AFIAAAAAc3EAfgBvAHBzcQB+AHR1cQB+AFIAAAAAc3EAfgBvAHBzcQB+AHR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJVzcQB+AIh0AANBbnlzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUdAAFc2NhbGFxAH4Am3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVZQ1uiSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBPBLcyvXhpOXwcb6pUPwFBqI+O2
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDIdJL/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNbz0pZ0AAZub3RpZnlzcQB+AAxW1XgtdAAHcGFja2FnZXNxAH4ADAl+dyx0AAR3YWl0c3EAfgAMLc/YrXQADSRhc0luc3RhbmNlT2ZzcQB+AAyZ4UMNdAAGZXF1YWxzc3EAfgAMtOzWKnQADGFzSW5zdGFuY2VPZnNxAH4ADA4Z8Y50AAxzeW5jaHJvbml6ZWRzcQB+AAw5MC4/dAANJGlzSW5zdGFuY2VPZnNxAH4ADM8ZN550AAlub3RpZnlBbGxzcQB+AAxF25EtdAAMaXNJbnN0YW5jZU9mc3EAfgAMqDWMmHQADmxvYWREaWN0aW9uYXJ5c3EAfgAMaRwC5nQAAj09c3EAfgAMeOTc4nQABWNsb25lc3EAfgAMewrlhnQACHRvU3RyaW5nc3EAfgAMGBCTnnQAAiE9c3EAfgAMy+/k/nQACGdldENsYXNzc3EAfgAMQqdvvXQAAm5lc3EAfgAM+PLHM3QADmRpY3Rpb25hcnlQYXRoc3EAfgAMz5Z3h3QAAmVxc3EAfgAMScfz5HQAAiMjc3EAfgAMUJ+SMHQACGZpbmFsaXplc3EAfgAMJd7D+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2ZvcmNvbXAucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmb3Jjb21wc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWUNboknVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AHsvaG9tZS9taXRrby9Eb2N1bWVudHMvQ291cnNlcmEvRnVuY3Rpb25hbCBQcm9ncmFtbWluZyBQcmluY2lwbGVzIGluIFNjYWxhL2Fzc2lnbm1lbnRzL3drNi9mb3Jjb21wL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3wKYYRwuLrvetbE7FeRs+BZAbiA==
+external apis:
+0 items
+source infos:
+3 items
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+AAAAAAAAAAA=
+/home/mitko/Documents/Coursera/Functional Programming Principles in Scala/assignments/wk6/forcomp/src/main/scala/forcomp/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkWPcNR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkrrK8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkshHgp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVlDW6JJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAey9ob21lL21pdGtvL0RvY3VtZW50cy9Db3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nIFByaW5jaXBsZXMgaW4gU2NhbGEvYXNzaWdubWVudHMvd2s2L2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
