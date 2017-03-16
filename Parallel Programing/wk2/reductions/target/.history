@@ -1,0 +1,10 @@
+runMain reductions.ParallelCountChangeRunner
+exit
+runMain reductions.ParallelParenthesesBalancingRunner
+exit
+runMain reductions.LineOfSightRunner
+submit dmanev@gmail.com BnzEl2kun649c3uZ
+exit
+submit dmanev@gmail.com BnzEl2kun649c3uZ
+submit dmanev@gmail.com RwgfZqszLEnbtNeE
+exit
