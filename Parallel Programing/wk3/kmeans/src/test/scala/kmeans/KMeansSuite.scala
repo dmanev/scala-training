@@ -1,11 +1,14 @@
 package kmeans
 
 import java.util.concurrent._
+
 import scala.collection._
 import org.scalatest.FunSuite
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
 import common._
+
+import scala.collection.mutable.ArrayBuffer
 import scala.math._
 
 object KM extends KMeans
@@ -17,6 +20,16 @@ class KMeansSuite extends FunSuite {
   def checkClassify(points: GenSeq[Point], means: GenSeq[Point], expected: GenMap[Point, GenSeq[Point]]) {
     assert(classify(points, means) == expected,
       s"classify($points, $means) should equal to $expected")
+  }
+
+  def checkConverged(eta: Double, oldMeans: GenSeq[Point], newMeans: GenSeq[Point], expected: Boolean) {
+    assert(converged(eta)(oldMeans,newMeans) == expected,
+      s"converged($oldMeans, $newMeans should equal to $expected")
+  }
+
+  def checkKMeans(points: GenSeq[Point], means: GenSeq[Point], eta: Double, expected: GenSeq[Point]) {
+    assert(kMeans(points, means, eta) zip expected filter {case (a,b) => a.x!=b.x || a.y!=b.y || a.z!=b.z} isEmpty,
+      s"kMeans($points, $means, $eta) should equal to $expected")
   }
 
   test("'classify should work for empty 'points' and empty 'means'") {
@@ -71,6 +84,27 @@ class KMeansSuite extends FunSuite {
     checkParClassify(points, means, expected)
   }
 
+  test("'converged' should work for 'oldMeans' == GenSeq((1,1,1), ..., (99,99,99)) and 'newMeans' == GenSeq((1,1,1), ..., (99, 99, 99.01))") {
+    val seq1to99 = 1 to 99 map(_.toDouble)
+    val oldMeans = ((seq1to99, seq1to99, seq1to99) zipped) map(new Point(_,_,_))
+    val newMeans = oldMeans.dropRight(1) ++ Seq(new Point(99.0, 99.0, 99.01))
+    checkConverged(0.01, oldMeans, newMeans, true)
+  }
+
+  test("'converged' should work for the same oldMeans and newMeans") {
+    val seq1to99 = 1 to 99 map(_.toDouble)
+    val oldMeans = ((seq1to99, seq1to99, seq1to99) zipped) map(new Point(_,_,_))
+    checkConverged(0.01, oldMeans, oldMeans, true)
+  }
+
+  test("'kMeans' should work for 'points' == GenSeq((0, 0, 1), (0,0, -1), (0,1,0), (0,10,0)) and 'oldMeans' == GenSeq((0, -1, 0), (0, 2, 0)) and 'eta' == 12.25") {
+    val points = GenSeq((0, 0, 1), (0,0, -1), (0,1,0), (0,10,0)) map {case (x,y,z) => new Point(x,y,z)}
+    val means = GenSeq((0, -1, 0), (0, 2, 0)) map {case (x,y,z) => new Point(x,y,z)}
+    val eta = 12.25
+    val expected = GenSeq((0.0, 0.0, 0.0), (0.0, 5.5, 0.0)) map {case (x,y,z) => new Point(x,y,z)}
+
+    checkKMeans(points,means,eta,expected)
+  }
 }
 
 
