@@ -44,23 +44,24 @@ package object barneshut {
   }
 
   case class Empty(centerX: Float, centerY: Float, size: Float) extends Quad {
-    def massX: Float = ???
-    def massY: Float = ???
-    def mass: Float = ???
-    def total: Int = ???
-    def insert(b: Body): Quad = ???
+    def massX: Float = centerX
+    def massY: Float = centerY
+    def mass: Float = 0
+    def total: Int = 0
+    def insert(b: Body): Quad = new Leaf(centerX, centerY, size, Seq(b))
   }
 
   case class Fork(
     nw: Quad, ne: Quad, sw: Quad, se: Quad
   ) extends Quad {
-    val centerX: Float = ???
-    val centerY: Float = ???
-    val size: Float = ???
-    val mass: Float = ???
-    val massX: Float = ???
-    val massY: Float = ???
-    val total: Int = ???
+    val quadrants = Seq(nw,ne,sw,se)
+    val centerX: Float = nw.centerX + nw.size/2
+    val centerY: Float = nw.centerY + nw.size/2
+    val size: Float = nw.size*2
+    val mass: Float = quadrants.map(_.mass).sum
+    val massX: Float = quadrants.map{case q:Quad => q.mass*q.massX}.sum/mass
+    val massY: Float = quadrants.map{case q:Quad => q.mass*q.massY}.sum/mass
+    val total: Int = quadrants.map(_.total).sum
 
     def insert(b: Body): Fork = {
       ???
@@ -69,9 +70,18 @@ package object barneshut {
 
   case class Leaf(centerX: Float, centerY: Float, size: Float, bodies: Seq[Body])
   extends Quad {
-    val (mass, massX, massY) = (??? : Float, ??? : Float, ??? : Float)
-    val total: Int = ???
-    def insert(b: Body): Quad = ???
+    val (mass, massX, massY) = (
+      bodies.map(_.mass).sum : Float,
+      bodies.map{case b: Body => b.mass * b.x}.sum/bodies.map(_.mass).sum: Float,
+      bodies.map{case b: Body => b.mass * b.y}.sum/bodies.map(_.mass).sum: Float
+    )
+    val total: Int = bodies.size
+    def insert(b: Body): Quad = if(size>minimumSize){
+      val frk = new Fork(Empty(centerX/2,centerY/2,size/2),Empty(centerX+size/2,centerY/2,size/2),
+               Empty(centerX/2,centerY+size/2,size/2),Empty(centerX+size/2,centerY+size/2,size/2))
+      bodies.map(frk.insert(_)).last
+    } else
+      new Leaf(centerX, centerY, size, bodies:+b)
   }
 
   def minimumSize = 0.00001f
@@ -123,9 +133,19 @@ package object barneshut {
           // no force
         case Leaf(_, _, _, bodies) =>
           // add force contribution of each body by calling addForce
+          bodies.map{case b: Body => addForce(b.mass,b.x,b.y)}
         case Fork(nw, ne, sw, se) =>
+          val dist = distance(quad.centerX,quad.centerY,x,y)
           // see if node is far enough from the body,
+          if(quad.size/dist < theta)
+            addForce(quad.mass,quad.massX,quad.massY)
           // or recursion is needed
+          else {
+            traverse(nw)
+            traverse(ne)
+            traverse(sw)
+            traverse(se)
+          }
       }
 
       traverse(quad)
