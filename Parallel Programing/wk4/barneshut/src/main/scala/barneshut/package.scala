@@ -54,18 +54,21 @@ package object barneshut {
   case class Fork(
     nw: Quad, ne: Quad, sw: Quad, se: Quad
   ) extends Quad {
-    val quadrants = Seq(nw,ne,sw,se)
+    val quads = Seq(nw,ne,sw,se)
     val centerX: Float = nw.centerX + nw.size/2
     val centerY: Float = nw.centerY + nw.size/2
     val size: Float = nw.size*2
-    val mass: Float = quadrants.map(_.mass).sum
-    val massX: Float = quadrants.map{case q:Quad => q.mass*q.massX}.sum/mass
-    val massY: Float = quadrants.map{case q:Quad => q.mass*q.massY}.sum/mass
-    val total: Int = quadrants.map(_.total).sum
+    val mass: Float = quads.map(_.mass).sum
+    val massX: Float = if(mass>0){quads.map{case q:Quad => q.mass*q.massX}.sum/mass} else {centerX}
+    val massY: Float = if(mass>0){quads.map{case q:Quad => q.mass*q.massY}.sum/mass} else {centerY}
+    val total: Int = quads.map(_.total).sum
 
-    def insert(b: Body): Fork = {
-      ???
-    }
+    def insert(b: Body): Fork =
+      if (b.x < centerX && b.y < centerY) new Fork(nw.insert(b), ne, sw, se)
+      else if (b.x < centerX && b.y >= centerY) new Fork(nw, ne.insert(b), sw, se)
+      else if (b.x >= centerX && b.y < centerY) new Fork(nw, ne, sw.insert(b), se)
+      else new Fork(nw, ne, sw, se.insert(b))
+
   }
 
   case class Leaf(centerX: Float, centerY: Float, size: Float, bodies: Seq[Body])
@@ -77,9 +80,16 @@ package object barneshut {
     )
     val total: Int = bodies.size
     def insert(b: Body): Quad = if(size>minimumSize){
-      val frk = new Fork(Empty(centerX/2,centerY/2,size/2),Empty(centerX+size/2,centerY/2,size/2),
-               Empty(centerX/2,centerY+size/2,size/2),Empty(centerX+size/2,centerY+size/2,size/2))
-      bodies.map(frk.insert(_)).last
+      val halfSize: Float = size / 2
+      val quarterSize: Float = size / 4
+      val westX: Float = centerX - quarterSize
+      val eastX: Float = centerX + quarterSize
+      val northY: Float = centerY - quarterSize
+      val southY: Float = centerY + quarterSize
+      val fork = new Fork(Empty(westX,northY,halfSize),Empty(eastX,northY,halfSize),
+          Empty(westX,southY,halfSize),Empty(eastX,southY,halfSize))
+
+      (bodies:+b).foldLeft(fork)(_.insert(_))
     } else
       new Leaf(centerX, centerY, size, bodies:+b)
   }
@@ -168,14 +178,17 @@ package object barneshut {
     for (i <- 0 until matrix.length) matrix(i) = new ConcBuffer
 
     def +=(b: Body): SectorMatrix = {
-      ???
+      val bx = ((b.x - boundaries.minX) / sectorSize).toInt max 0 min sectorPrecision - 1
+      val by = ((b.y - boundaries.minY) / sectorSize).toInt max 0 min sectorPrecision - 1
+      this(bx, by) += b
       this
     }
 
     def apply(x: Int, y: Int) = matrix(y * sectorPrecision + x)
 
     def combine(that: SectorMatrix): SectorMatrix = {
-      ???
+      this.matrix.zipWithIndex.map{case (cb: ConcBuffer[Body], i: Int) => cb combine that.matrix(i)}
+      this
     }
 
     def toQuad(parallelism: Int): Quad = {

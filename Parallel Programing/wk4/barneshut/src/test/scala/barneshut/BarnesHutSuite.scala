@@ -42,6 +42,30 @@ import FloatOps._
     assert(quad.total == 1, s"${quad.total} should be 1")
   }
 
+  test("Leaf.insert(b) should return a new Fork if size > minimumSize") {
+    val b = new Body(123f, 18f, 26f, 0f, 0f)
+    val quad = Leaf(17.5f, 27.5f, 5f, Seq()).insert(b)
+
+    assert(quad.mass ~= 123f, s"${quad.mass} should be 123f")
+    assert(quad.massX ~= 18f, s"${quad.massX} should be 18f")
+    assert(quad.massY ~= 26f, s"${quad.massY} should be 26f")
+    assert(quad.total == 1, s"${quad.total} should be 1")
+  }
+
+ test("Fork with 4 empty quadrants") {
+    val nw = Empty(17.5f, 27.5f, 5f)
+    val ne = Empty(22.5f, 27.5f, 5f)
+    val sw = Empty(17.5f, 32.5f, 5f)
+    val se = Empty(22.5f, 32.5f, 5f)
+    val quad = Fork(nw, ne, sw, se)
+
+    assert(quad.centerX == 20f, s"${quad.centerX} should be 20f")
+    assert(quad.centerY == 30f, s"${quad.centerY} should be 30f")
+    assert(quad.mass == 0f, s"${quad.mass} should be 0f")
+    assert(quad.massX == 20f, s"${quad.massX} should be 20f")
+    assert(quad.massY == 30f, s"${quad.massY} should be 30f")
+    assert(quad.total == 0, s"${quad.total} should be 0")
+  }
 
   test("Fork with 3 empty quadrants and 1 leaf (nw)") {
     val b = new Body(123f, 18f, 26f, 0f, 0f)
@@ -111,7 +135,6 @@ import FloatOps._
     val res = sm(2, 3).size == 1 && sm(2, 3).find(_ == body).isDefined
     assert(res, s"Body not found in the right sector")
   }
-
 }
 
 object FloatOps {
